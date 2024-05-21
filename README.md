@@ -16,4 +16,23 @@ Algorithm used for predicting and get accuracy are -
 We are making accuracy and prediction in Iris project through Iris Dataset.
 This is easy and understable for machine learning staters( Naive ).
 
+### Model Deployment using Streamlit App on Iris Dataset 
+
+### Overview
+This project is a simple web application built with Streamlit to explore and visualize the famous Iris dataset. The Iris dataset is a classic dataset in machine learning and is often used for practicing classification algorithms.
+
+### Link to app
+You can access the app [here]()
+
+## Project Structure
+- **iris_webapp.py**: Main file containing the Streamlit application code.
+- **requirements.txt**: List of Python dependencies for the project.
+
+## Technologies Used
+- Python
+- Streamlit
+- Pandas
+- Scikit-learn
+
+
 PS: Thank you 
